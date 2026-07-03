@@ -1,3 +1,5 @@
+<img width="597" height="335" alt="images (1)" src="https://github.com/user-attachments/assets/35d20bb9-4ce4-4d7e-833d-08066e8e9cc0" />
+
 # 🌌 Transit Explorer
 
 **Transit Explorer** is an open-source Python tool for downloading, processing, and visualizing astronomical light curves from NASA's **TESS** and **Kepler** missions.
