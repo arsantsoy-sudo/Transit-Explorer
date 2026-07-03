@@ -126,7 +126,7 @@ The program produces:
 
 Example using **KELT-9b**
 
-*(Insert image here after uploading to the repository.)*
+<img width="1800" height="1400" alt="KELT-9b_transit" src="https://github.com/user-attachments/assets/cec08fd4-29a9-49ba-a0f9-210baf4fe620" />
 
 ---
 
